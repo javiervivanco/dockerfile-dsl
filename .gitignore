@@ -1,0 +1,48 @@
+# Racket compiled files
+compiled/
+*.zo
+*.dep
+
+# Racket documentation
+doc/
+
+# Racket packages
+.packages/
+
+# Racket setup info
+info-cache.rktd
+
+# Racket user settings
+user-tethered-daemon.rktd
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Distribution / packaging
+*.tar.gz
+*.zip
+
+# Environment variables
+.env
+.env.local
+.env.*.local
