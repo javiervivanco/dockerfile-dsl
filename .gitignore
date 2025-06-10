@@ -46,3 +46,11 @@ Thumbs.db
 .env
 .env.local
 .env.*.local
+
+# Scribble generated files
+*.html
+*.pdf
+*.tex
+*.css
+*.js
+scribbled/

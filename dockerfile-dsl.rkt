@@ -11,7 +11,9 @@
 
 (provide ;; Estructuras principales
          dockerfile
+         dockerfile?
          dockerfile-command
+         dockerfile-command?
          dockerfile-command-type
          dockerfile-command-options
          dockerfile-command-args
